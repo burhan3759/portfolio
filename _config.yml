@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: My Portfolio and About me.
 email: your-email@domain.com
-brand: Mohamed Burhanudeen
+brand: Burhanudeen
 headline: Student for Life, Programmer and Human
 description: > # this means to ignore newlines until "baseurl:"
   New Site
