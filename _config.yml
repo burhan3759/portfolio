@@ -1,6 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+title: My Portfolio and About me.
 email: your-email@domain.com
 brand: Mohamed Burhanudeen
 headline: Student for Life, Programmer and Human
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: /portfolio # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: 2017 Mohd Burhan. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
