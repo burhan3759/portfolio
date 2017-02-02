@@ -12,9 +12,26 @@
     margin: 0 auto;
 }
 
-/*.img-portfolio:hover {
+.img-portfolio .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: -1px;
+    left: 55%;
+}
+
+.img-portfolio:hover .tooltiptext {
     opacity: 0.8;
-}*/
+    visibility: visible;
+}
 
 .logo-portfolio:hover {
     opacity: 0.8;
