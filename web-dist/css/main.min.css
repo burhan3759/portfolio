@@ -12,8 +12,17 @@
     margin: 0 auto;
 }
 
-.img-portfolio:hover {
+/*.img-portfolio:hover {
     opacity: 0.8;
+}*/
+
+.logo-portfolio:hover {
+    opacity: 0.8;
+}
+
+.img-apple-logo {
+		width=36%;
+		height=auto
 }
 
 
