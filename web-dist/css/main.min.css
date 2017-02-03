@@ -47,7 +47,8 @@
     min-width: 100%;
     z-index: 1;
     padding-top: 10%;
-    padding-right: 10%;
+    padding-right: 100%;
+    background-color: #fff;
 }
 
 .dropdown-content a {
